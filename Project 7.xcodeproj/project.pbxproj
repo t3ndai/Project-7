@@ -13,6 +13,7 @@
 		FE95CB9E1C7B5D0200E79018 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE95CB9C1C7B5D0200E79018 /* Main.storyboard */; };
 		FE95CBA01C7B5D0200E79018 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE95CB9F1C7B5D0200E79018 /* Assets.xcassets */; };
 		FE95CBA31C7B5D0200E79018 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE95CBA11C7B5D0200E79018 /* LaunchScreen.storyboard */; };
+		FE95CBAB1C7B640C00E79018 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE95CBAA1C7B640C00E79018 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FE95CB9F1C7B5D0200E79018 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE95CBA21C7B5D0200E79018 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE95CBA41C7B5D0200E79018 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE95CBAA1C7B640C00E79018 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FE95CB981C7B5D0200E79018 /* MasterViewController.swift */,
 				FE95CB9A1C7B5D0200E79018 /* DetailViewController.swift */,
 				FE95CB9C1C7B5D0200E79018 /* Main.storyboard */,
+				FE95CBAA1C7B640C00E79018 /* SwiftyJSON.swift */,
 				FE95CB9F1C7B5D0200E79018 /* Assets.xcassets */,
 				FE95CBA11C7B5D0200E79018 /* LaunchScreen.storyboard */,
 				FE95CBA41C7B5D0200E79018 /* Info.plist */,
@@ -141,6 +144,7 @@
 				FE95CB9B1C7B5D0200E79018 /* DetailViewController.swift in Sources */,
 				FE95CB991C7B5D0200E79018 /* MasterViewController.swift in Sources */,
 				FE95CB971C7B5D0200E79018 /* AppDelegate.swift in Sources */,
+				FE95CBAB1C7B640C00E79018 /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
