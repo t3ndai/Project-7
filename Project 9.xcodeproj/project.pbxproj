@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FE95CB931C7B5D0200E79018 /* Project 7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project 7.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE95CB931C7B5D0200E79018 /* Project 9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project 9.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE95CB961C7B5D0200E79018 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FE95CB981C7B5D0200E79018 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
 		FE95CB9A1C7B5D0200E79018 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		FE95CB941C7B5D0200E79018 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FE95CB931C7B5D0200E79018 /* Project 7.app */,
+				FE95CB931C7B5D0200E79018 /* Project 9.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FE95CB921C7B5D0200E79018 /* Project 7 */ = {
+		FE95CB921C7B5D0200E79018 /* Project 9 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FE95CBA71C7B5D0200E79018 /* Build configuration list for PBXNativeTarget "Project 7" */;
+			buildConfigurationList = FE95CBA71C7B5D0200E79018 /* Build configuration list for PBXNativeTarget "Project 9" */;
 			buildPhases = (
 				FE95CB8F1C7B5D0200E79018 /* Sources */,
 				FE95CB901C7B5D0200E79018 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "Project 7";
+			name = "Project 9";
 			productName = "Project 7";
-			productReference = FE95CB931C7B5D0200E79018 /* Project 7.app */;
+			productReference = FE95CB931C7B5D0200E79018 /* Project 9.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FE95CB8E1C7B5D0200E79018 /* Build configuration list for PBXProject "Project 7" */;
+			buildConfigurationList = FE95CB8E1C7B5D0200E79018 /* Build configuration list for PBXProject "Project 9" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FE95CB921C7B5D0200E79018 /* Project 7 */,
+				FE95CB921C7B5D0200E79018 /* Project 9 */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +260,7 @@
 				INFOPLIST_FILE = "Project 7/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Dzonga-Prince.hackingWithSwift.Project-7";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Project 9";
 			};
 			name = Debug;
 		};
@@ -271,14 +271,14 @@
 				INFOPLIST_FILE = "Project 7/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Dzonga-Prince.hackingWithSwift.Project-7";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Project 9";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FE95CB8E1C7B5D0200E79018 /* Build configuration list for PBXProject "Project 7" */ = {
+		FE95CB8E1C7B5D0200E79018 /* Build configuration list for PBXProject "Project 9" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FE95CBA51C7B5D0200E79018 /* Debug */,
@@ -287,13 +287,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FE95CBA71C7B5D0200E79018 /* Build configuration list for PBXNativeTarget "Project 7" */ = {
+		FE95CBA71C7B5D0200E79018 /* Build configuration list for PBXNativeTarget "Project 9" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FE95CBA81C7B5D0200E79018 /* Debug */,
 				FE95CBA91C7B5D0200E79018 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
